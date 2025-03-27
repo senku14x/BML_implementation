@@ -1,2 +1,2 @@
 # BML_implementation
-This repository consists of my implementation of basic machine learning algorithms using basic datasets!
+This repository consists of my implementation of research papers as well as common ML/DL algorithms :D
